@@ -11,7 +11,7 @@ It can be stressful to drive long distance during the pandemic because one might
 ### Features
 Include Features here
 ### Technologies
-Java, SpringBoot, API
+Java, SpringBoot, MySQL, API
 ### What I'll Have to Learn
 How to use API to integrate maps and updated statistics about Covid-19. 
 ### Project Tracker
