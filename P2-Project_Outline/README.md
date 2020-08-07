@@ -7,13 +7,13 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-It can be stressful to drive long distance during the pandemic because one might not know the safest places to stop for food, gas, and public restrooms. This app is designed to alleviate this stress. It allows the user to find out the counties they will be driving through, shows them the updated statistics about Covid-19 in each county, and identifies the safest counties to stop. 
+It can be stressful to drive long distance during the pandemic because one might not know the safest places to stop for food, gas, and public restrooms. This app is designed to alleviate this stress. It allows the user to find out the counties they will be driving through and shows them the updated statistics about Covid-19 in each county so that they can find the safest counties to stop. 
 ### Features
 User login: users will be able to sign up and sign in to existing accounts.
 
 Set Home County: users will be able to add and edit their home county.
 
-Map search: users will be able to search the counties they will be driving through by tying in their current location and their destination. 
+Map search: users will be able to search the counties they will be driving through given their current location and their destination. 
 
 Covid-19 statistics: users will be presented with statistics about Covid-19 in each county they will be driving through. 
 
