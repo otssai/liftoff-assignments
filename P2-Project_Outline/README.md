@@ -32,4 +32,4 @@ API
 ### What I'll Have to Learn
 How to use API to integrate maps and statistics about Covid-19. 
 ### Project Tracker
-https://trello.com/b/vOCmvT9D/liftoff
+https://trello.com/b/vOCmvT9D/driving-during-the-pandemic
