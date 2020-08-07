@@ -11,11 +11,12 @@ It can be stressful to drive long distance during the pandemic because one might
 ### Features
 User login: users will be able to sign up and sign in to existing accounts.
 
+Set Home County: users will be able to add and edit their home county.
+
 Map search: users will be able to search the counties they will be driving through by tying in their current location and their destination. 
 
 Covid-19 statistics: users will be presented with statistics about Covid-19 in each county they will be driving through. 
 
-Save and delete data: users will be able to save and delete their previous searches and the associated statistics.
 ### Technologies
 Java
 
