@@ -11,7 +11,7 @@ It can be stressful to drive long distance during the pandemic because one might
 ### Features
 User login: users will be able to sign up and sign in to existing accounts.
 
-Set Home County: users will be able to add and edit their home county.
+Set Home County and Destination County: users will be able to add and edit their home county and their destination county.
 
 Map search: users will be able to search the counties they will be driving through given their current location and their destination. 
 
