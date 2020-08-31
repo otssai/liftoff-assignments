@@ -20,4 +20,4 @@ https://trello.com/b/vOCmvT9D/driving-during-the-pandemic
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/otssai/driving-during-the-pandemic
