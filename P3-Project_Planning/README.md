@@ -7,12 +7,12 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-* User Login Page: https://trello-attachments.s3.amazonaws.com/5f285269b7b1dc22583c91db/5f4d6295057938718915d572/0f5b893ca99a259b35c5084d7cfba045/login.jpg
-![Image of Login](https://trello-attachments.s3.amazonaws.com/5f285269b7b1dc22583c91db/5f4d6295057938718915d572/0f5b893ca99a259b35c5084d7cfba045/login.jpg)
-
-* User Signup Page: https://trello-attachments.s3.amazonaws.com/5f285269b7b1dc22583c91db/5f2db2cc31731d3419e165c4/af4d0954163962022f3064bf4ff624b0/signup.jpg
-* Index Page: https://trello-attachments.s3.amazonaws.com/5f285269b7b1dc22583c91db/5f4d62f96b69635dd9692c63/bb75ef9a969d21b4e78889431354f68d/index.jpg
-![Image of Login](https://github.com/otssai/liftoff-assignments/blob/master/P3-Project_Planning/index.jpg)
+* User Login Page: https://github.com/otssai/liftoff-assignments/blob/master/P3-Project_Planning/login.jpg
+![Image of Login](https://github.com/otssai/liftoff-assignments/blob/master/P3-Project_Planning/login.jpg)
+* User Signup Page: https://github.com/otssai/liftoff-assignments/blob/master/P3-Project_Planning/signup.jpg
+![Image of Signup] (https://github.com/otssai/liftoff-assignments/blob/master/P3-Project_Planning/signup.jpg)
+* Index Page: https://github.com/otssai/liftoff-assignments/blob/master/P3-Project_Planning/index.jpg
+![Image of Index](https://github.com/otssai/liftoff-assignments/blob/master/P3-Project_Planning/index.jpg)
 
 ### Project Tracker
 
