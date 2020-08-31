@@ -10,7 +10,7 @@ For this assignment, you'll create some initial plans for your project.
 * User Login Page: https://github.com/otssai/liftoff-assignments/blob/master/P3-Project_Planning/login.jpg
 ![Image of Login](https://github.com/otssai/liftoff-assignments/blob/master/P3-Project_Planning/login.jpg)
 * User Signup Page: https://github.com/otssai/liftoff-assignments/blob/master/P3-Project_Planning/signup.jpg
-![Image of Signup] (https://github.com/otssai/liftoff-assignments/blob/master/P3-Project_Planning/signup.jpg)
+![Image of Signup](https://github.com/otssai/liftoff-assignments/blob/master/P3-Project_Planning/signup.jpg)
 * Index Page: https://github.com/otssai/liftoff-assignments/blob/master/P3-Project_Planning/index.jpg
 ![Image of Index](https://github.com/otssai/liftoff-assignments/blob/master/P3-Project_Planning/index.jpg)
 
