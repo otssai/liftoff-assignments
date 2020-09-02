@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-[Github](https://github.com/otssai)
- 
+https://github.com/otssai
+
 ### LinkedIn
-[LinkedIn](https://www.linkedin.com/in/xiang-yu-00764a165/)
+https://www.linkedin.com/in/xiang-yu-00764a165/
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
